@@ -1,4 +1,4 @@
-# Hypothesis_testing
+# Hypothesis testing
 
 This repository contains scripts about hypothesis testing developed for the graduate Computational Physics course at the National and Kapodistrian University of Athens. 
 
